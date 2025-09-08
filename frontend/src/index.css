@@ -1,0 +1,30 @@
+
+body {
+  font-family: 'Inter', Arial, sans-serif; 
+  margin: 0;
+  padding: 0;
+  background-color: whitesmoke; 
+  color: #333333;             
+}
+
+
+a {
+  color: #1c940c;             
+  text-decoration: none;
+  transition: color 0.2s ease-in-out;
+}
+
+a:hover {
+  color: #0b6e4f;            
+  text-decoration: underline;
+}
+
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+  border: none;
+  border-radius: 4px;
+  transition: background-color 0.2s ease;
+}
+
